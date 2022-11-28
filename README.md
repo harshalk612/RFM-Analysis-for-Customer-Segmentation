@@ -30,5 +30,5 @@ RFM stands for Recency,Frequency and Monetary
 #### Linkedin  : https://www.linkedin.com/in/harshalkakaiya/
 
 
-#### Medium    : https://medium.com/@harshal.61
+#### Medium    : https://medium.com/@harshal.61/
 
